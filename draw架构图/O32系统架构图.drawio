@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T05:21:30.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.6" etag="ganVFizOAFgBrmQFGzah" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T06:12:48.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ZmKtqdUgiv-b3pjMm7un" version="24.0.6" type="github">
   <diagram name="第 1 页" id="Hl0IDdzk9xqQNP-VrTFX">
-    <mxGraphModel>
+    <mxGraphModel dx="420" dy="228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Mrk0xv8-sCJKDxQqHj11-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrk0xv8-sCJKDxQqHj11-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_oracle_instance;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrk0xv8-sCJKDxQqHj11-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="190" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
